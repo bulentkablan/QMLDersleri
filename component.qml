@@ -8,6 +8,20 @@ Window {
     visible: true
     title: qsTr("Hello World")
 
+    //Example {}
+
+    //PathsExamples {}
+
+    //ViewExamples {}
+
+    // PythonExample {}
+
+    //CarExample {}
+
+    // ListExample {}
+
+    // OpacityAnimation {}
+
     // Objenin üzerine basılı iken boyutunun küçültülmesi
     //    Timer {
     //        interval: 20
@@ -201,7 +215,6 @@ Window {
     // ------------------------------------------------------------------------------------------------------
 
     // Olusturulan componentin Kolon içinde Repeater ile kullanılması
-
     //    Column {
     //        spacing: 5
 

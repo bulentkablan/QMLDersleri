@@ -5,6 +5,20 @@
         "main.qml",
         "main2.qml",
         "component.qml",
-        "BlueBox.qml"
+        "BlueBox.qml",
+        "burcin.png",
+        "OpacityAnimation.qml",
+        "ghost.jpg",
+        "ControlComp.qml",
+        "ListExample.qml",
+        "CarExample.qml",
+        "PythonExample.qml",
+        "ViewExamples.qml",
+        "PathsExamples.qml",
+        "Example.qml",
+        "pythonQt.jpg",
+        "ImageHunting.qml",
+        "HavaDurumu.qml",
+        "havadurumu.py"
     ]
 }
